@@ -1,3 +1,2 @@
 # CoffeeToken
-A coffee token 
-My first ERC 20 contract 
+My first ERC20 contract : a Coffee Token
